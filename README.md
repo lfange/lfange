@@ -5,9 +5,15 @@
 -->
 Here are some a brief introduction to me:
 ## Self-driven, quick starter, passionate programmer with a curious mind who enjoys solving a complex and challenging real-world problems.
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lfange&count_private=true)
+### About me      
+
+[![lfange's GitHub stats](https://github-readme-stats.vercel.app/api?username=lfange&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![lfange's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lfange&layout=compact&hide_border=true&langs_count=10)
 - 🔭 I’m currently working on Chengdu, China
 - 🌱 I’m currently learning Front deveploment
-- 👯 I’m looking to collaborate on bpmnVue3
+<!-- - 👯 I’m looking to collaborate on bpmnVue3 -->
 - 📫 How to reach me: 653398363@qq.com
 - 😄 Pronouns: xiaofanqie
 - ⚡ Fun fact: Do something important!
