@@ -18,7 +18,7 @@ Here are some a brief introduction to me:
 ![kubernetes](https://img.shields.io/badge/-kubernetes-grey?logo=kubernetes)
 -->
 ### About me      
-<--
+<!--
 ### My fav tech stack
 
 ![java](https://img.shields.io/badge/-java-grey?logo=java&logoColor=red)
